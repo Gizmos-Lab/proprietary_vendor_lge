@@ -232,3 +232,4 @@ PRODUCT_COPY_FILES += \
     vendor/lge/hammerhead/proprietary/xbin/wlutil:system/xbin/wlutil \
     vendor/lge/hammerhead/proprietary/vendor/lib/libaptX_encoder.so:system/vendor/lib/libaptX_encoder.so \
     vendor/lge/hammerhead/proprietary/vendor/lib/libaptXHD_encoder.so:system/vendor/lib/libaptXHD_encoder.so \
+    vendor/lge/hammerhead/proprietary/vendor/libfacenet-32.so:system/vendor/lib/libfacenet-32.so \
